@@ -15,5 +15,6 @@
             </intent-filter>
         </activity>
     </application>
-</manifest>
+</manifest>ls -la
+
 
